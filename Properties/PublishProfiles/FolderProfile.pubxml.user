@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\MarkoPC\Desktop\publish\WebAPIv2</_PublishTargetUrl>
+    <History>True|2022-09-30T19:25:57.6634388Z;True|2022-09-30T21:18:36.6931936+02:00;False|2022-09-30T21:17:54.9967286+02:00;False|2022-09-30T21:16:37.9304689+02:00;False|2022-09-30T21:15:43.3118891+02:00;False|2022-09-30T21:14:38.0419126+02:00;True|2022-09-30T21:05:09.0362463+02:00;True|2022-09-30T20:44:52.4586075+02:00;</History>
+  </PropertyGroup>
+</Project>
